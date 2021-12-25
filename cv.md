@@ -1,4 +1,4 @@
-<img src='image/my-img.png' alt='your-image' style='max-width: 120px; margin-left: 0'>
+<img src='image/my-img.png' alt='your-image' style='max-width: 90px; margin-left: 0'>
 
 # Miroshnichenko Sergej
 
@@ -140,7 +140,7 @@ if (city) {
 ## Work experience : </br></br>
 Branch manager AT Commercial Bank Privatbank, Kyiv |
 August 2011 - August 2021  </br>
-[codewars] ("https://www.codewars.com/users/sergejmiroshnichenko")
+[codewars](https://www.codewars.com/users/sergejmiroshnichenko)
 
 --------------
 ## Education : </br></br>
@@ -151,7 +151,7 @@ December 2021 - until now
  - DAN-IT Education, Kyiv </br>
 Front-end Development |
 June 2021 - January 2022
-- Ivan Petrichenko. Full course on JavaScript + React - from scratch to result  https://www.udemy.com/course/javascript_full/
+- [Udemy. Ivan Petrichenko. Full course on JavaScript + React - from scratch to result](https://www.udemy.com/course/javascript_full/)
 - Krivoy Rog National University, 
 Expert, Business Economics |
 September 2013 - June 2016
@@ -162,34 +162,35 @@ Expert, Faculty of Information Technology, Control Systems and Automatics | Sept
 ## My projects : </br></br>
 
 1. https://sergejmiroshnichenko.github.io/HAM/ </br>
-https://gitlab.com/sergej.miroshnichenko.kr/pe-37-homeworks/-/tree/master/JavaScript%20%20Basic/homeworks/Step%20Project%20The%20Ham </br>
+[link to the project code](https://gitlab.com/sergej.miroshnichenko.kr/pe-37-homeworks/-/tree/master/JavaScript%20%20Basic/homeworks/Step%20Project%20The%20Ham) </br>
 </br>
-   _In this project i realized layout for homepage site. Used technologies:_ </br> 
-   * _javascript to sort and load a new batch of images and to create a slider alsoanimates the photo._
-   * _button animation using a CSS gradient when a hover appears._ </br>
+   In this project i realized layout for homepage site. Used technologies: </br> 
+   * javascript to sort and load a new batch of images and to create a slider alsoanimates the photo.
+   * button animation using a CSS gradient when a hover appears. </br>
    </br>
 
 2. https://sergejmiroshnichenko.github.io/pet-project-Forkio/ </br>
-https://gitlab.com/dimas_yanic/step-2 </br>
+[link to the project code](https://gitlab.com/dimas_yanic/step-2) </br>
 </br>
- _For this project I used:_ </br> 
-   * _SCSS preprocessor_
-   * _Adaptive layout_
-   * _JavaScript for the burger menu_
-   * _Gulp task manager to build the project_
-   * _Git, team development (working with branches)_ </br>
+ For this project I used:</br>
+   * SCSS preprocessor 
+   * Adaptive layout
+   * JavaScript for the burger menu
+   * Gulp task manager to build the project
+   * Git, team development (working with branches) </br>
    </br>
 3. https://sergejmiroshnichenko.github.io/my-cv/ </br>
-https://gitlab.com/sergej.miroshnichenko.kr/pe-37-homeworks/-/tree/master/My%20portfolio </br>
+[link to the project code](https://gitlab.com/sergej.miroshnichenko.kr/pe-37-homeworks/-/tree/master/My%20portfolio) </br>
 </br>
-_In this project i realized my portfolio. Used technologies:_ </br>
-   * _HTML_
-   * _CSS_
-   * _Adaptive layout_
-   * _JavaScript for the burger menu_
+In this project i realized my portfolio. Used technologies: </br>
+   * HTML
+   * CSS
+   * Adaptive layout
+   * JavaScript for the burger menu
+   
 --------------
 
 ## Languages : </br></br>
  * _English - A2_
 * _Russian, Ukrainian - Native_
---------------
+
