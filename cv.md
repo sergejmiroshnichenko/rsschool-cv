@@ -1,29 +1,38 @@
-<img src='image/my-img.png' alt='your-image' style='max-width: 80px; margin-left: 0'>
+<img src='image/my-img.png' alt='your-image' style='max-width: 90px; margin-left: 0'>
 
 # Miroshnichenko Sergej
 
 
-####  Junior Front-end Developer </br>
+####  Junior Front-end Developer
 __________________________________________________________ 
-</br> 
 
-## Contact information : </br></br>
-- ***City:***  Kyiv </br>
-- ***Phone:***  +38 096 4470574 </br>
-- ***E-mail:***  sergej.miroshnichenko.kr@gmail.com </br>
-- ***Telegram:***  @Sergej Miroshnichenko </br>
-- ***Discord:*** Sergej (@sergejmiroshnichenko) </br>
-- [LinkedIn](linkedin.com/in/sergej-miroshnichenko-03a049223)</br>
+
+
+
+## Contact information : 
+
+
+- ***City:***   Kyiv 
+- ***Phone:***   +38 096 4470574 
+- ***E-mail:***   sergej.miroshnichenko.kr@gmail.com
+- ***Telegram:***  @Sergej Miroshnichenko 
+- ***Discord:***  Sergej (@sergejmiroshnichenko) 
+
+- [LinkedIn](linkedin.com/in/sergej-miroshnichenko-03a049223)
 - [Facebook](https://www.facebook.com/profile.php?id=100011421697708&sk=about)
 
 --------------
-## About myself : </br></br>
+## About myself : 
+
+
 
 My goal is to get practical experience in front-end development to further realize myself in this field.I like front-end because you can implement any idea and see it in a browser.  And also in the future I want my developments to benefit people.
 When I having worked in a bank as a Branch Manager for 10 years I received experience in business negotiations, feedback, teamwork, hardworking and also responsibility for timely results.  
 
   --------------
-## Skills and Proficiency : </br></br>
+## Skills and Proficiency : 
+
+
 - HTML5,
 - CSS3,SCSS
 - Figma
@@ -35,9 +44,12 @@ When I having worked in a bank as a Branch Manager for 10 years I received exper
 - Ajax
 - API
 --------------
-## Code example : </br></br>
+## Code example :
+
+
 ##### Given an array/list [ ] of n integers , find maximum triplet sum in the array Without duplications Notes :Array/list size is at least 3 .Array/list numbers could be a mixture of positives , negatives and zeros .Repetition of numbers in the array/list could occur , So (duplications are not included when summing)
-##### </br>
+##### 
+
 
 
 ```
@@ -51,10 +63,12 @@ function maxTriSum(numbers) {
 
 maxTriSum([8,6,4,8,3,9,4,2,6,4,2,3,2,0,1]);     
 ```
-</br>
+
+
 
 #####  Given an array/list [ ] of n integers , find maximum triplet sum in the array Without duplications Notes :Array/list size is at least 3 .Array/list numbers could be a mixture of positives , negatives and zeros .Repetition of numbers in the array/list could occur , So (duplications are not included when summing)
-##### </br>
+##### 
+
 
 ```
 function myLanguages(results) {
@@ -70,9 +84,11 @@ myLanguages({ Chinese: 11,
     Swedish: 89,
     Hungarian: 61,
     Turkish: 69 });
+
 ```
 #####  Write a weather widget using Open Meteo API. When downloading the page, ask the user about the city. [geocoding-api.open-meteo.com](https://geocoding-api.open-meteo.com/v1/search?name=NAME). Make a weather report for the specified city and display the information in the widget on the page Use icon fonts library to display the status of the weather [erikflowers.github.io/weather-icons](https://erikflowers.github.io/weather-icons/) .  If an error occurs, then display the text of the error in the modal window.
-##### </br>
+#####
+
 ```
 const MONTHS = [
     "January",
@@ -137,56 +153,76 @@ if (city) {
 }
 ```
 --------------
-## Work experience : </br></br>
+## Work experience : 
+
+
 Branch manager AT Commercial Bank Privatbank, Kyiv |
-August 2011 - August 2021  </br>
+August 2011 - August 2021
+
 [codewars](https://www.codewars.com/users/sergejmiroshnichenko)
 
 --------------
-## Education : </br></br>
+## Education : 
+
+
  - THE ROLLING SCOPES
 SCHOOL
 JS/FE PRE-SCHOOL (JAVASCRIPT) | 
 December 2021 - until now
- - DAN-IT Education, Kyiv </br>
+
+ - DAN-IT Education, Kyiv 
 Front-end Development |
 June 2021 - January 2022
+
 - [Udemy. Ivan Petrichenko. Full course on JavaScript + React - from scratch to result](https://www.udemy.com/course/javascript_full/)
+
 - Krivoy Rog National University, 
 Expert, Business Economics |
 September 2013 - June 2016
+
 - Krivoy Rog National University, 
 Expert, Faculty of Information Technology, Control Systems and Automatics | September 2005 - June 2010
 
 --------------
-## My projects : </br></br>
+## My projects : 
 
-1. https://sergejmiroshnichenko.github.io/HAM/ </br>
-[link to the project code](https://gitlab.com/sergej.miroshnichenko.kr/pe-37-homeworks/-/tree/master/JavaScript%20%20Basic/homeworks/Step%20Project%20The%20Ham)</br>
-</br>
+
+
+1. https://sergejmiroshnichenko.github.io/HAM/
+
+[link to the project code](https://gitlab.com/sergej.miroshnichenko.kr/pe-37-homeworks/-/tree/master/JavaScript%20%20Basic/homeworks/Step%20Project%20The%20Ham)
+
 
   _In this project i realized layout for homepage site. Used technologies:_
 - javascript to sort and load a new batch of images and to create a slider alsoanimates the photo.
 - button animation using a CSS gradient when a hover appears.  
-  </br></br>
+  
 
-2. https://sergejmiroshnichenko.github.io/pet-project-Forkio/ </br>
-[link to the project code](https://gitlab.com/dimas_yanic/step-2) </br>
-</br>
+
+
+2. https://sergejmiroshnichenko.github.io/pet-project-Forkio/ 
+
+[link to the project code](https://gitlab.com/dimas_yanic/step-2)
+
 
   _For this project I used:_
 - SCSS preprocessor 
 - Adaptive layout
 - JavaScript for the burger menu
 - Gulp task manager to build the project
-- Git, team development (working with branches) </br>
-</br></br>
-   
-3. https://sergejmiroshnichenko.github.io/my-cv/ </br>
-[link to the project code](https://gitlab.com/sergej.miroshnichenko.kr/pe-37-homeworks/-/tree/master/My%20portfolio)</br>
-</br>
+- Git, team development (working with branches) 
 
-_In this project i realized my portfolio. Used technologies:_ </br>
+
+
+   
+3. https://sergejmiroshnichenko.github.io/my-cv/
+
+[link to the project code](https://gitlab.com/sergej.miroshnichenko.kr/pe-37-homeworks/-/tree/master/My%20portfolio)
+
+
+
+_In this project i realized my portfolio. Used technologies:_ 
+
    - HTML
    - CSS
    - Adaptive layout
@@ -194,7 +230,8 @@ _In this project i realized my portfolio. Used technologies:_ </br>
    
 --------------
 
-## Languages : </br></br>
+## Languages :
+
  * _English - A2_
 * _Russian, Ukrainian - Native_
 
