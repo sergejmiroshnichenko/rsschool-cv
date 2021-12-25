@@ -43,13 +43,12 @@ When I having worked in a bank as a Branch Manager for 10 years I received exper
 - Npm
 - Ajax
 - API
+
 --------------
 ## Code example :
 
 
 ##### Given an array/list [ ] of n integers , find maximum triplet sum in the array Without duplications Notes :Array/list size is at least 3 .Array/list numbers could be a mixture of positives , negatives and zeros .Repetition of numbers in the array/list could occur , So (duplications are not included when summing)
-##### 
-
 
 
 ```
@@ -67,7 +66,6 @@ maxTriSum([8,6,4,8,3,9,4,2,6,4,2,3,2,0,1]);
 
 
 #####  Given an array/list [ ] of n integers , find maximum triplet sum in the array Without duplications Notes :Array/list size is at least 3 .Array/list numbers could be a mixture of positives , negatives and zeros .Repetition of numbers in the array/list could occur , So (duplications are not included when summing)
-##### 
 
 
 ```
@@ -87,7 +85,7 @@ myLanguages({ Chinese: 11,
 
 ```
 #####  Write a weather widget using Open Meteo API. When downloading the page, ask the user about the city. [geocoding-api.open-meteo.com](https://geocoding-api.open-meteo.com/v1/search?name=NAME). Make a weather report for the specified city and display the information in the widget on the page Use icon fonts library to display the status of the weather [erikflowers.github.io/weather-icons](https://erikflowers.github.io/weather-icons/) .  If an error occurs, then display the text of the error in the modal window.
-#####
+
 
 ```
 const MONTHS = [
@@ -188,7 +186,7 @@ Expert, Faculty of Information Technology, Control Systems and Automatics | Sept
 
 
 
-1. https://sergejmiroshnichenko.github.io/HAM/
+1. [github-pages](https://sergejmiroshnichenko.github.io/HAM/)
 
 [link to the project code](https://gitlab.com/sergej.miroshnichenko.kr/pe-37-homeworks/-/tree/master/JavaScript%20%20Basic/homeworks/Step%20Project%20The%20Ham)
 
@@ -200,7 +198,7 @@ Expert, Faculty of Information Technology, Control Systems and Automatics | Sept
 
 
 
-2. https://sergejmiroshnichenko.github.io/pet-project-Forkio/ 
+2. [github-pages](https://sergejmiroshnichenko.github.io/pet-project-Forkio/) 
 
 [link to the project code](https://gitlab.com/dimas_yanic/step-2)
 
@@ -215,7 +213,7 @@ Expert, Faculty of Information Technology, Control Systems and Automatics | Sept
 
 
    
-3. https://sergejmiroshnichenko.github.io/my-cv/
+3. [github-pages](https://sergejmiroshnichenko.github.io/my-cv/)
 
 [link to the project code](https://gitlab.com/sergej.miroshnichenko.kr/pe-37-homeworks/-/tree/master/My%20portfolio)
 
