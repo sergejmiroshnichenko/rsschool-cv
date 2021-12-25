@@ -71,7 +71,7 @@ myLanguages({ Chinese: 11,
     Hungarian: 61,
     Turkish: 69 });
 ```
-#####  Write a weather widget using Open Meteo API. When downloading the page, ask the user about the city. ( https://geocoding-api.open-meteo.com/v1/search?name=NAME ). Make a weather report for the specified city and display the information in the widget on the page Use icon fonts library to display the status of the weather https://erikflowers.github.io/weather-icons/ .  If an error occurs, then display the text of the error in the modal window.
+#####  Write a weather widget using Open Meteo API. When downloading the page, ask the user about the city. [geocoding-api.open-meteo.com](https://geocoding-api.open-meteo.com/v1/search?name=NAME). Make a weather report for the specified city and display the information in the widget on the page Use icon fonts library to display the status of the weather [erikflowers.github.io/weather-icons](https://erikflowers.github.io/weather-icons/) .  If an error occurs, then display the text of the error in the modal window.
 ##### </br>
 ```
 const MONTHS = [
@@ -162,31 +162,35 @@ Expert, Faculty of Information Technology, Control Systems and Automatics | Sept
 ## My projects : </br></br>
 
 1. https://sergejmiroshnichenko.github.io/HAM/ </br>
-[link to the project code](https://gitlab.com/sergej.miroshnichenko.kr/pe-37-homeworks/-/tree/master/JavaScript%20%20Basic/homeworks/Step%20Project%20The%20Ham) </br>
+[link to the project code](https://gitlab.com/sergej.miroshnichenko.kr/pe-37-homeworks/-/tree/master/JavaScript%20%20Basic/homeworks/Step%20Project%20The%20Ham)</br>
 </br>
-   In this project i realized layout for homepage site. Used technologies: </br> 
-   * javascript to sort and load a new batch of images and to create a slider alsoanimates the photo.
-   * button animation using a CSS gradient when a hover appears. </br>
-   </br>
+
+  _In this project i realized layout for homepage site. Used technologies:_
+- javascript to sort and load a new batch of images and to create a slider alsoanimates the photo.
+- button animation using a CSS gradient when a hover appears.  
+  </br></br>
 
 2. https://sergejmiroshnichenko.github.io/pet-project-Forkio/ </br>
 [link to the project code](https://gitlab.com/dimas_yanic/step-2) </br>
 </br>
- For this project I used:</br>
-   * SCSS preprocessor 
-   * Adaptive layout
-   * JavaScript for the burger menu
-   * Gulp task manager to build the project
-   * Git, team development (working with branches) </br>
-   </br>
+
+  _For this project I used:_
+- SCSS preprocessor 
+- Adaptive layout
+- JavaScript for the burger menu
+- Gulp task manager to build the project
+- Git, team development (working with branches) </br>
+</br></br>
+   
 3. https://sergejmiroshnichenko.github.io/my-cv/ </br>
-[link to the project code](https://gitlab.com/sergej.miroshnichenko.kr/pe-37-homeworks/-/tree/master/My%20portfolio) </br>
+[link to the project code](https://gitlab.com/sergej.miroshnichenko.kr/pe-37-homeworks/-/tree/master/My%20portfolio)</br>
 </br>
-In this project i realized my portfolio. Used technologies: </br>
-   * HTML
-   * CSS
-   * Adaptive layout
-   * JavaScript for the burger menu
+
+_In this project i realized my portfolio. Used technologies:_ </br>
+   - HTML
+   - CSS
+   - Adaptive layout
+   - JavaScript for the burger menu
    
 --------------
 
