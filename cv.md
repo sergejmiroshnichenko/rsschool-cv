@@ -186,7 +186,9 @@ Expert, Faculty of Information Technology, Control Systems and Automatics | Sept
 
 
 
-1. [github-pages](https://sergejmiroshnichenko.github.io/HAM/)
+___Project №1___
+   
+[github-pages](https://sergejmiroshnichenko.github.io/HAM/)
 
 [link to the project code](https://gitlab.com/sergej.miroshnichenko.kr/pe-37-homeworks/-/tree/master/JavaScript%20%20Basic/homeworks/Step%20Project%20The%20Ham)
 
@@ -198,7 +200,9 @@ Expert, Faculty of Information Technology, Control Systems and Automatics | Sept
 
 
 
-2. [github-pages](https://sergejmiroshnichenko.github.io/pet-project-Forkio/) 
+___Project №2___  
+
+[github-pages](https://sergejmiroshnichenko.github.io/pet-project-Forkio/) 
 
 [link to the project code](https://gitlab.com/dimas_yanic/step-2)
 
@@ -213,7 +217,9 @@ Expert, Faculty of Information Technology, Control Systems and Automatics | Sept
 
 
    
-3. [github-pages](https://sergejmiroshnichenko.github.io/my-cv/)
+___Project №3___ 
+
+[github-pages](https://sergejmiroshnichenko.github.io/my-cv/)
 
 [link to the project code](https://gitlab.com/sergej.miroshnichenko.kr/pe-37-homeworks/-/tree/master/My%20portfolio)
 
