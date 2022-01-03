@@ -16,7 +16,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url("Images/Bckg.JPG") center fixed;
+    background: url("assets/Images/Bckg.JPG") center fixed;
     background-size: cover;
 }
 
