@@ -23,6 +23,7 @@ section {
 .main .content {
     max-width: 800px;
     padding-left: 15px;
+    margin: 0 auto;
 }
 
 .main .content h2 {
@@ -495,6 +496,11 @@ footer{
     text-align: end;
 }
 
+footer a i {
+    font-size: 40px;
+    margin-left: 500%;
+}
+ 
 @media (max-width: 1040px) {
 
     header {
