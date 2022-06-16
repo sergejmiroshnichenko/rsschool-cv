@@ -1,4 +1,4 @@
-<img src='image/my-img.png' alt='your-image' style='max-width: 90px; margin-left: 0'>
+<img src='assets/Images/Iam.JPG' alt='your-image' style='max-width: 90px; margin-left: 0'>
 
 # Miroshnichenko Sergej
 
