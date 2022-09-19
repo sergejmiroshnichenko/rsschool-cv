@@ -18,6 +18,7 @@ __________________________________________________________
 - ***Telegram:***  @Sergej Miroshnichenko
 - ***Discord:***  Sergej (@sergejmiroshnichenko)
 
+- [Github](https://github.com/sergejmiroshnichenko)
 - [LinkedIn](https://www.linkedin.com/in/sergej-miroshnichenko-%F0%9F%87%BA%F0%9F%87%A6-03a049223/)
 - [Facebook](https://www.facebook.com/profile.php?id=100011421697708&sk=about)
 
@@ -153,3 +154,35 @@ if (city) {
         .then(renderWeather(city))
 }
 ```
+
+## Work experience :
+
+
+Branch manager AT Commercial Bank Privatbank, Kyiv |
+August 2011 - August 2021
+
+[codewars](https://www.codewars.com/users/sergejmiroshnichenko)
+
+
+## Education :
+
+
+- THE ROLLING SCOPES
+  SCHOOL
+  JS/FE PRE-SCHOOL (JAVASCRIPT) |
+  December 2021 - March 2022
+
+- DAN-IT Education, Kyiv
+  Front-end Development |
+  June 2021 - February 2022
+
+- [Udemy. Ivan Petrichenko. Full course on JavaScript + React - from scratch to result](https://www.udemy.com/course/javascript_full/)
+
+- Krivoy Rog National University,
+  Expert, Business Economics |
+  September 2013 - June 2016
+
+- Krivoy Rog National University,
+  Expert, Faculty of Information Technology, Control Systems and Automatics | September 2005 - June 2010
+
+--------------
