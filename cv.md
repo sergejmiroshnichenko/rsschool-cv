@@ -3,7 +3,7 @@
 # Miroshnichenko Sergej
 
 
-####  Junior Front-end Developer
+####  Junior Front-end Developer ( React )
 __________________________________________________________ 
 
 
@@ -186,3 +186,59 @@ August 2011 - August 2021
   Expert, Faculty of Information Technology, Control Systems and Automatics | September 2005 - June 2010
 
 --------------
+
+## My projects :
+
+
+
+___Quadcopters (React)___
+
+[link](https://q-sergejmiroshnichenko.vercel.app/)
+
+[link to the project code](https://github.com/sergejmiroshnichenko/quadcopter)
+
+Project stack and tools :
+
+- React
+- React-router-dom
+- Adaptive layout
+- Bootstrap
+- SAAS
+- Prop-types
+- GIT
+
+
+___Snake (React)___
+
+
+[link](https://react-murex-ten.vercel.app/)
+
+[link to the project code](https://github.com/sergejmiroshnichenko/snake)
+
+
+Project stack and tools :
+
+- React
+- Adaptive layout
+- React-router-dom
+- React Hook Form
+- Git
+- Bootstrap
+- Prop-types
+- SAAS
+
+
+___THE HAM___
+
+[github-pages](https://sergejmiroshnichenko.github.io/HAM/)
+
+[link to the project code](https://gitlab.com/sergej.miroshnichenko.kr/pe-37-homeworks/-/tree/master/JavaScript%20%20Basic/homeworks/Step%20Project%20The%20Ham)
+
+
+_In this project I realized layout for homepage site. Used technologies:_
+- javascript to sort and load a new batch of images and to create a slider also animates the photo.
+- button animation using a CSS gradient when a hover appears.
+
+
+
+
