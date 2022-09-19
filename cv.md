@@ -19,13 +19,12 @@ __________________________________________________________
 - ***Discord:***  Sergej (@sergejmiroshnichenko)
 
 - [Github](https://github.com/sergejmiroshnichenko)
+- [Codewars](https://www.codewars.com/users/sergejmiroshnichenko/completed_solutions)
 - [LinkedIn](https://www.linkedin.com/in/sergej-miroshnichenko-%F0%9F%87%BA%F0%9F%87%A6-03a049223/)
 - [Facebook](https://www.facebook.com/profile.php?id=100011421697708&sk=about)
 
 
 ## About myself :
-
-
 
 My goal is to get practical experience in front-end development to further realize myself in this field.I like front-end because you can implement any idea and see it in a browser.  And also in the future I want my developments to benefit people.
 When I having worked in a bank as a Branch Manager for 10 years I received experience in business negotiations, feedback, teamwork, hardworking and also responsibility for timely results.
@@ -240,5 +239,9 @@ _In this project I realized layout for homepage site. Used technologies:_
 - button animation using a CSS gradient when a hover appears.
 
 
+## Languages :
+
+* _English - B1_
+* _Ukrainian_, _Russian - native_
 
 
