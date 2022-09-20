@@ -160,10 +160,11 @@ if (city) {
 Branch manager AT Commercial Bank Privatbank, Kyiv |
 August 2011 - August 2021
 
-[codewars](https://www.codewars.com/users/sergejmiroshnichenko)
-
 
 ## Education :
+
+![codewars](images/Scr_1.png)
+![codewars](images/Scr_2.png)
 
 
 - THE ROLLING SCOPES
